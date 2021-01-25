@@ -8,7 +8,8 @@
     "start": "next start",
     "build-css": "tailwind build styles/globals.css -o styles/styles.css",
     "test": "jest --config ./jest.config.json",
-    "test:watch": "npm run test -- --watch"
+    "test:watch": "npm run test -- --watch",
+    "static": "next export"
   },
   "dependencies": {
     "loadash": "^1.0.0",

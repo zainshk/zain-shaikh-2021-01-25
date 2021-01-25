@@ -1,16 +1,11 @@
-// tailwind.config.js
 module.exports = {
-  future: {},
   purge: [],
+  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
   },
-  variants: {},
-  plugins: [({ addComponents, theme }) => {
-    addComponents({
-      ".container": {
-        "@apply mx-auto": {}
-      },
-    });
-  },],
-}
+  variants: {
+    extend: {},
+  },
+  plugins: [],
+};
