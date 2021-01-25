@@ -1,7 +1,7 @@
 ### Zain Shaikh
 
 ### Link to Live Server
-https://github.com/zainshk/zain-shaikh-2021-01-25
+https://zain-shaikh-2021-01-25.vercel.app/
 
 ### Instructions
 
